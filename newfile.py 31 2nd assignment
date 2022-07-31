@@ -1,0 +1,5 @@
+#Ques 2:
+
+def rev_string(str):
+    return str[::-1]
+rev_string('1234abcd')
